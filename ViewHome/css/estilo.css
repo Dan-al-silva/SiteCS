@@ -32,24 +32,23 @@ body {
     color: rgb(236, 214, 9);
 }
 section{
-    
+    padding-left:5%;
     width: 80%;
     float: left;
     text-align: center;
 }
 .info2{
-    margin-left: 10%;
-    width:70%;
+    text-align: center;
+    width:100%;
     float: left;
-    color: azure;
 
 }
 
 .info3{
-    margin-left: 10%;
-    margin-top: 65px;
+    
+    margin-top: 10%;
     float: left;
-    width:auto;
+    width:100%;
    
  
 }
